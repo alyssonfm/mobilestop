@@ -1,0 +1,1 @@
+Mobile Stop será um jogo para celular, usando possivelmente bluetooth para jogar.
